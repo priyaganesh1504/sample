@@ -1,7 +1,7 @@
 rits consulting and technology
 ksr institute for engineering and technology
-IT
-ECE
-EEE
-CSE 
-MECH
+IT(INFO TECH)
+ECE(ELECTRONIC)
+EEE(ENGINEERING)
+CSE (COMPUTER)
+MECH(MECHANICAL)
